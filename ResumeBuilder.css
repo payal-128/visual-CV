@@ -1,0 +1,9 @@
+ResumeBuilder/
+├── src/
+│   ├── sample/
+│       ├── Controller.java
+│       ├── Main.java
+│       └── ResumeGenerator.java
+├── resources/
+│   └── styles.css
+└── README.md
